@@ -1,0 +1,14 @@
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\bin\Debug\net8.0\Pregunta 3.exe
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\bin\Debug\net8.0\Pregunta 3.deps.json
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\bin\Debug\net8.0\Pregunta 3.runtimeconfig.json
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\bin\Debug\net8.0\Pregunta 3.dll
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\bin\Debug\net8.0\Pregunta 3.pdb
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\obj\Debug\net8.0\Pregunta 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\obj\Debug\net8.0\Pregunta 3.AssemblyInfoInputs.cache
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\obj\Debug\net8.0\Pregunta 3.AssemblyInfo.cs
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\obj\Debug\net8.0\Pregunta 3.csproj.CoreCompileInputs.cache
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\obj\Debug\net8.0\Pregunta 3.dll
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\obj\Debug\net8.0\refint\Pregunta 3.dll
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\obj\Debug\net8.0\Pregunta 3.pdb
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\obj\Debug\net8.0\Pregunta 3.genruntimeconfig.cache
+E:\2 PRACTICA DE ACTUALICACION\Practica 1\Parte Practica\Pregunta 3\obj\Debug\net8.0\ref\Pregunta 3.dll
